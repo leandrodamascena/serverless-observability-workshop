@@ -1,7 +1,7 @@
 
 # AWS Serverless Observability Workshop 
 
-This workshop can be found [here](http://observability.serverlessworkshops.io/).
+This workshop can be found [here](https://serverless-observability.workshop.aws/en/).
 
 ## Done:
 
